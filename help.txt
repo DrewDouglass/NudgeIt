@@ -1,0 +1,5 @@
+For usage help and other information relating to this plugin, please see the following pages:
+
+-http://davidwalsh.name/jquery-link-nudge
+-http://dev-tips.com/featured/link-nudge-jquery-plugin
+-http://bitbucket.org/elephpant/nudgeit/
